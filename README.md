@@ -36,7 +36,7 @@ I specialize in **microservices, event-driven architectures, and enterprise-grad
 <!-- START REPO TABLE -->
 | Name | Description | Stars |
 |------|-------------|-------|
-| [SamPaulIsaac](https://github.com/SamPaulIsaac/SamPaulIsaac) | - | 0 |
+| [SamPaulIsaac](https://github.com/SampaulIsaac/SamPaulIsaac) | - | 0 |
 <!-- END REPO TABLE -->
 
 ---
